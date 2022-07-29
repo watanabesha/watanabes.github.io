@@ -65,7 +65,55 @@ h1 {
     text-align:center;
 }
 
+h2 {
+    text-transform: uppercase;
+    font-size:6rem;
+    margin: 0;
+    letter-spacing: .5rem;
+    color:darkred;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:center;
+}
 
+h3 {
+    text-transform: uppercase;
+    font-size:6rem;
+    margin: 0;
+    letter-spacing: .5rem;
+    color:darkred;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:center;
+}
+
+h4 {
+    text-transform: uppercase;
+    font-size:1.5rem;
+    margin: 0;
+    letter-spacing: .25rem;
+    color:darkred;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:center;
+    padding:0 0 1.125rem;
+    font-weight:normal;
+}
+
+span {
+    padding:0 .5rem 0 .5rem;
+}
+
+h5 {
+    text-transform: uppercase;
+    font-size:6rem;
+    margin: 0;
+    letter-spacing: .5rem;
+    color:darkred;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:center;
+}
 /* Section & Paragraph */
 
 
